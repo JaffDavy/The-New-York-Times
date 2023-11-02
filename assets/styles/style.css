@@ -28,6 +28,13 @@ body {
   text-decoration: none;
 }
 
+ul {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  list-style: none;
+}
+
 .button li {
   color: black;
 }
@@ -50,13 +57,6 @@ body {
   font-size: larger;
 }
 
-ul {
-  display: flex;
-  gap: 30px;
-  justify-content: center;
-  list-style: none;
-}
-
 section {
   border-bottom: double black;
 }
@@ -67,7 +67,7 @@ section {
 }
 
 .sancho {
-  height:80vh;
+  height: 80vh;
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
@@ -96,7 +96,6 @@ h3 {
   font-size: large;
   display: flex;
   align-items: center;
-  display: block;
 }
 
 .ch {
@@ -158,7 +157,6 @@ h3 {
   text-align: center;
   padding: 10px;
   justify-content: left;
-  text-align: left;
 }
 
 h4 {
