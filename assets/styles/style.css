@@ -13,7 +13,6 @@ body {
   justify-content: space-between;
   display: flex;
   width: 100vw;
-  
 }
 
 .symbols {
@@ -32,7 +31,6 @@ body {
 .button li {
   color: black;
 }
-
 
 .log {
   display: flex;
@@ -65,14 +63,10 @@ section {
 
 .left-container1 {
   width: 80%;
-  /* background-color: yellowgreen; */
   border: 1px solid gainsboro;
 }
 
 .sancho {
-  /* flex-direction: column; */
-  /* flex-wrap: wrap; */
-  /* background-color: bisque; */
   height:80vh;
   display: flex;
   justify-content: space-between;
@@ -86,58 +80,48 @@ h3 {
 
 .e {
   justify-content: left;
-  /* background-color: orange; */
   margin: 30px;
   width: 30vh;
   padding: 10px;
   font-size: large;
-  /* border-bottom: 1px solid gainsboro; */
   height: 40vh;
   text-wrap: wrap;
 }
 
 .f {
   justify-content: left;
-  /* background-color: green; */
   margin: 10px;
   width: 30vh;
   padding: 10px;
   font-size: large;
-  /* border-bottom: 1px solid gainsboro; */
   display: flex;
   align-items: center;
   display: block;
-  /* border-top: 1px solid gainsboro; */
 }
 
 .ch {
   display: flex;
   justify-content: center;
   width: 100%;
-  /* background-color: blue; */
   align-items: center;
   margin-top: 80px;
-  /* border-bottom: 1px solid gainsboro; */
 }
 
 .ch iframe {
   width: 90%;
   height: 400px;
   margin: 0 auto;
-  
 }
 
 .sh {
   display: flex;
   flex-direction: column;
-  /* background-color: red; */
   width: 100vh;
 }
 
 .sms {
   height: 15vh;
   border-bottom: 1px solid gainsboro;
-  /* background-color: aqua; */
   display: flex;
   flex-direction: row;
   font-size: larger;
@@ -145,7 +129,6 @@ h3 {
 }
 
 .g {
-  /* background-color: crimson; */
   width: 50%;
   margin-left: 30px;
   border-right: 1px solid gainsboro;
@@ -154,7 +137,6 @@ h3 {
 }
 
 .h {
-  /* background-color: bisque; */
   font-size: larger;
   margin-left: 15px;
   padding: 5px;
@@ -162,16 +144,13 @@ h3 {
 }
 
 .sanch {
-  /* background-color: aqua; */
   display: flex;
   border-bottom: 1px solid gainsboro;
-  
 }
 
 .i {
   display: flex;
   width: 50%;
-
 }
 
 .txt {
@@ -180,7 +159,6 @@ h3 {
   padding: 10px;
   justify-content: left;
   text-align: left;
-  /* border-right: 1px solid gainsboro; */
 }
 
 h4 {
@@ -192,12 +170,10 @@ h4 {
   text-wrap: wrap;
   margin-left: 50px;
   width: 90%;
-  /* background-color: aquamarine; */
   border-left: 1px solid gainsboro;
 }
 
 .k {
-  /* background-color: blueviolet; */
   height: 60vh;
   display: flex;
   border-bottom: 1px solid gainsboro;
@@ -206,12 +182,10 @@ h4 {
 .l {
   text-wrap: wrap;
   width: 40%;
-  /* background-color: aqua; */
   margin: 20px;
 }
 
 .m {
-  /* background-color: bisque; */
   width: 100%;
   margin: 20px;
 }
@@ -223,13 +197,11 @@ figcaption {
 
 .o {
   width: 40%;
-  /* background-color: aqua; */
   font-size: larger;
   margin-right: 50px;
 }
 
 .n {
-  /* background-color: bisque; */
   display: flex;
   border-top: 1px solid gainsboro;
   margin: 20px;
@@ -242,7 +214,6 @@ figcaption {
 
 .ab {
   display: flex;
-
 }
 
 .al {
@@ -294,11 +265,10 @@ figcaption {
   border-top: 1px solid gainsboro;
   display: flex;
   margin: 40px;
-
 }
+
 .vc {
   margin-top: 20px;
-
 }
 
 .ds {
@@ -313,7 +283,6 @@ figcaption {
   border-top: 1px solid gainsboro;
   padding: 20px;
   border-bottom: 1px solid gainsboro;
-
 }
 
 .qz {
@@ -321,7 +290,6 @@ figcaption {
   flex-direction: column;
   width: 60vh;
   padding: 50px;
-  /* background-color: aqua; */
 }
 
 .qa {
@@ -356,7 +324,7 @@ figcaption {
 
 .xz {
   display: flex;
-  margin: 0px;
+  margin: 0;
   border-top: 1px solid gainsboro;
   padding: 30px;
 }
@@ -369,7 +337,7 @@ figcaption {
 
 .xc {
   /* border-bottom: 1px solid gainsboro; */
-  padding: 30xp;
+  padding: 30px;
 }
 
 .xv {
